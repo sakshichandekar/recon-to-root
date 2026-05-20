@@ -22,10 +22,10 @@ Each machine includes step-by-step findings, observations, screenshots, and VAPT
 
 ## Machines Covered
 
-| Machine | Focus Areas | Status |
-|---|---|---|
-| Academy | FTP Enumeration, Credential Discovery, File Upload Exploitation, Privilege Escalation | ✅ Completed |
-| Kioptrix | Enumeration, Exploitation, Linux Privilege Escalation | ✅ Completed |
+| Machine | Focus Areas |
+|---|---|
+| Academy | FTP Enumeration, Credential Discovery, File Upload Exploitation, Privilege Escalation | 
+| Kioptrix | Enumeration, Exploitation, Linux Privilege Escalation | 
 
 ---
 
