@@ -59,6 +59,6 @@ The assessment included:
 
 Detailed findings and screenshots are available in:
 
-- [`kioptrix-vapt-report.pdf`](./kioptrix-vapt-report.pdf)
+- [`Kioptrix.pdf`](./Kioptrix.pdf)
 
 ---
