@@ -24,8 +24,8 @@ Each machine includes step-by-step findings, observations, screenshots, and VAPT
 
 | Machine | Focus Areas |
 |---|---|
-| Academy | FTP Enumeration, Credential Discovery, File Upload Exploitation, Privilege Escalation | 
-| Kioptrix | Enumeration, Exploitation, Linux Privilege Escalation | 
+| [Academy](./Academy) | FTP Enumeration, Credential Discovery, File Upload Exploitation, Privilege Escalation | 
+| [Kioptrix](./Kioptrix) | Enumeration, Exploitation, Linux Privilege Escalation | 
 
 ---
 
