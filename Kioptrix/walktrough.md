@@ -23,17 +23,6 @@ The assessment included:
 
 ---
 
-## Tools Used
-
-- Nmap
-- enum4linux
-- rpcclient
-- dirb
-- Metasploit
-- Kali Linux
-
----
-
 ## Key Findings
 
 - Multiple outdated services exposed
@@ -44,21 +33,10 @@ The assessment included:
 
 ---
 
-## Skills Practiced
-
-- Network reconnaissance
-- Service enumeration
-- SMB enumeration
-- Vulnerability analysis
-- Exploitation workflow
-- Security documentation
-
----
-
 ## Report
 
 Detailed findings and screenshots are available in:
 
-- [`Kioptrix.pdf`](./Kioptrix.pdf)
+- [`Kioptrix VAPT Report`](./Kioptrix.pdf)
 
 ---
